@@ -1,0 +1,16 @@
+{
+  "name": "@romap0/json-rpc",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "description": "Use json-rpc server and client with any transport.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romap0/json-rpc"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
